@@ -5,5 +5,14 @@ td{
 
 }
 #Button{
-left:50px;
+  position: relative;
+left:100px;
+width:40px;
+height:40px;
+
+top:10px;
+}
+button{
+  background-color: blue;
+  color:white;
 }
